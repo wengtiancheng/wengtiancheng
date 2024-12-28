@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Hu Tao, the 77th Director of the Wangsheng Funeral Parlor
 
 <!--
 **wengtiancheng/wengtiancheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-readme-stats.vercel.app/api?username=wengtianchenge&show_icons=true&theme=transparent)
