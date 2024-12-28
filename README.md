@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![亮色](https://raw.githubusercontent.com/wengtiancheng/wengtiancheng/refs/heads/output/github-contribution-grid-snake.svg)
-![暗色](https://raw.githubusercontent.com/wengtiancheng/wengtiancheng/refs/heads/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wengtiancheng/wengtiancheng/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wengtiancheng/wengtiancheng/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/wengtiancheng/wengtiancheng/refs/heads/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ### Here are some stats and info about my GitHub activity:
 ![](https://github-readme-stats.vercel.app/api?username=wengtiancheng&show_icons=true&theme=transparent)
