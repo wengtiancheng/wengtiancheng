@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Here are some stats and info about my GitHub activity:
 ![](https://github-readme-stats.vercel.app/api?username=wengtiancheng&show_icons=true&theme=transparent)
 
+### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/wengtiancheng/count.svg)
 
+### Top Language:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wengtiancheng&layout=compact&theme=tokyonight)
