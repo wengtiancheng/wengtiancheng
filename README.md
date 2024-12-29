@@ -21,9 +21,10 @@ Here are some ideas to get you started:
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/wengtiancheng/wengtiancheng/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<!--
 ### Here are some stats and info about my GitHub activity:
 ![](https://github-readme-stats.vercel.app/api?username=wengtiancheng&show_icons=true&theme=transparent)
+-->
 
 ### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/wengtiancheng/count.svg)
