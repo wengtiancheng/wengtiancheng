@@ -27,7 +27,17 @@ Here are some ideas to get you started:
 -->
 
 ### Visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/wengtiancheng/count.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://profile-counter.glitch.me/wengtiancheng/count.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://profile-counter.glitch.me/wengtiancheng/count.svg">
+  <img alt="Visitor Count" src="https://profile-counter.glitch.me/wengtiancheng/count.svg">
+</picture>
+
 
 ### Top Language:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wengtiancheng&layout=compact&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wengtiancheng&layout=compact&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wengtiancheng&layout=compact&theme=default">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wengtiancheng&layout=compact&theme=default">
+</picture>
+
