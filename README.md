@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wengtiancheng/wengtiancheng/blob/origin/profile-3d-contrib/profile-gitblock.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/wengtiancheng/wengtiancheng/blob/origin/profile-3d-contrib/profile-night-rainbow.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://github.com/wengtiancheng/wengtiancheng/blob/origin/profile-3d-contrib/profile-gitblock.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wengtiancheng/wengtiancheng/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wengtiancheng/wengtiancheng/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/wengtiancheng/wengtiancheng/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!--
